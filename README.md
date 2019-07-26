@@ -1,5 +1,14 @@
 # DockerPython
 
+# Description:
+
+
+# To Run:
+  -      :   .
+
+# Disclaimer:
+
+
 docker ps -a
 
 docker images
